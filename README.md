@@ -5,7 +5,7 @@ To run application you must have Docker, you can download it [here (clickable)](
 To run application copy/paste below: 
 
 ```shell
-git clone git@github.com:Deserved/newswhip-exercise.git
+git clone https://github.com/Deserved/newswhip-exercise.git
 docker build -t app .
 docker run app
 ```
